@@ -1,0 +1,3 @@
+[submodule "Core/Gopher_Sense"]
+	path = Core/Gopher_Sense
+	url = https://github.com/gopher-motorsports/Gopher_Sense.git
