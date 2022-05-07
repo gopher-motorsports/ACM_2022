@@ -1,0 +1,8 @@
+acm_GO422.c:38:18:init	24	static
+acm_GO422.c:92:6:can_buffer_handling_loop	8	static
+acm_GO422.c:104:5:valid_data_channel	32	static
+acm_GO422.c:118:5:calculate_rear_wing_angle	24	static
+acm_GO422.c:144:5:calculate_front_wing_angle	24	static
+acm_GO422.c:168:5:determine_wing_angle	24	static
+acm_GO422.c:185:6:parameter_request	24	static
+acm_GO422.c:194:6:PWM_generation	16	static
